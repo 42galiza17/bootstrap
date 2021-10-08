@@ -119,6 +119,9 @@ h6{
 
 .products{
 
-    row-gap: 60px;
+    row-gap: 100px;
     column-gap: 20px;
+}
+.products p{
+    text-align: left;
 }
