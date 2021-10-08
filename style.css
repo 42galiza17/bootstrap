@@ -1,0 +1,124 @@
+p{
+    font-size: 18px;
+} 
+ 
+#btn1{
+    display: inline-block;
+}
+
+img#groove{
+    width: 100%;
+}
+
+#says{
+    font-size: 30px;
+    max-width: 600px;
+    margin: auto;
+}
+#text{
+
+    max-width: 800px;
+    margin: auto;
+}
+
+.carousel-control-prev{
+
+    background: none;
+    border-right: 0;
+}
+.carousel-control-next{
+ background: none;
+    border-left: 0;
+}
+
+h1,h2,h3,h4,h5,p{
+    font-family: 'Lora', serif;
+    font-weight: normal;
+}
+
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px !important; 
+}
+
+#img3{
+    width:80%
+}
+
+#btn5{
+    font-weight: bold;
+}
+
+
+#cardss{
+    padding:0 70px;
+}
+
+.card-body{
+    background:#F9F9F9;
+}
+
+h6{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: din-2014,helvetica,sans-serif;
+
+}
+.card-title{
+    font-size: 30px;
+}
+
+
+
+
+
+.social-link {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    border-radius: 50%;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+  }
+  
+  .social-link:hover,
+  .social-link:focus {
+    background: #ddd;
+    text-decoration: none;
+    color: #555;
+  }
+  
+  .progress {
+    height: 10px;
+  }
+  
+
+
+#product-item:hover #product1{ 
+    display:block !important;
+}
+
+#product-item:hover #product1-hover{
+    display:none !important;
+}
+
+#product1{
+    display:none !important;
+}
+
+/* 
+#product1-hover{
+    display:none !important;
+} */
+
+.products{
+
+    row-gap: 60px;
+    column-gap: 20px;
+}
